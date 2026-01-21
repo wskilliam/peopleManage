@@ -8,6 +8,7 @@ Organização estilo MVC, com **PDO**, **CSRF**, **validação** e **views** sim
 ## Como rodar
 
 1. Certifique-se de ter o PHP instalado (>= 7.4).
+   
 2. Crie a pasta de dados (caso não exista):
    ```bash
 
@@ -50,12 +51,4 @@ crud-pessoas-php-sqlite/
 - Saída protegida com `htmlspecialchars`.
 - SQL portátil para facilitar migrações.
 - Para inspecionar o banco: `sqlite3 data/database.sqlite`.
-
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
-
-Veja `contribuindo.md` para saber como começar.
-
-Por favor, siga o `código de conduta` desse projeto.
 
